@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BukuTelepon</string>
+    <string name="buku_telepon">Buku Telepon</string>
+    <string name="tambah">tambah\n</string>
+    <string name="tambah_kontak">Tambah</string>
+    <string name="lihat_daftar">Lihat Daftar</string>
+    <string name="tmbh_kontak">Tambah Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="nomor_telepon">Nomor Telepon</string>
+</resources>
